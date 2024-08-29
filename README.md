@@ -1,49 +1,74 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+### Hello I'm Perry  👋 
 
-###
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
+
+![profile count](https://komarev.com/ghpvc/?username=perryhoang2012&color=blue)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/perryhoang2012?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+<!--### 👨🏻‍💻 &nbsp;About Me-->
+
+<!--💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.-->
+
+<!--🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\-->
+<!--✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\-->
+<!--💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \-->
+<!--✉️ &nbsp;You can email me at avinash201199@gmail.com. I'll try to respond as soon as possible!\-->
+
+<!--### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)-->
+
+-----
+### 📫 &nbsp; How to reach me:
+
+
+
+<a href="https://www.linkedin.com/in/perryhoang2012/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+<a href="mailto:hoanghuynh5555@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+-----  
+
+### Languages and Tools
+
+<p>
+ 
+ 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+ 
+ -----
+  
+</p>
+
+
+
+<h1 align="center">Github Stats</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=perryhoang2012&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-###
+ </div>
+ 
+ 
+<img align="left" alt="Perry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perryhoang2012&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perryhoang2012&layout=compact&theme=dark" width="46%" />
+<br>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
