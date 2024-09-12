@@ -54,19 +54,6 @@
   
 </p>
 
-
-
-<h1 align="center">Github Stats</h1>
-
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=perryhoang2012&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
- </div>
- 
- 
-<img align="left" alt="Perry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perryhoang2012&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perryhoang2012&layout=compact&theme=dark" width="46%" />
 <br>
 
 
